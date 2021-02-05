@@ -1,3 +1,4 @@
+src/fireapp/config.ts
 .vscode
 process.env
 .env

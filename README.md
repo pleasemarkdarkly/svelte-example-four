@@ -7,6 +7,9 @@ yarn install
 yarn dev
 ```
 
+## Mr. Whiskers
+
+![Mr. Whiskers](./assets/images/mrwhiskers.png)
 
 # routify-starter
 

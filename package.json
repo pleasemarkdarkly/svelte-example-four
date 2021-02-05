@@ -2,10 +2,12 @@
    "name": "routify-svelte-app",
    "version": "0.0.1",
    "author": "Mark Phillips",
-   "license": "LICENSE",
+   "license": "SEE LICENSE IN LICENSE",
    "engines": {
       "node": "12"
    },
+   "url": "https://github.com/pleasemarkdarkly/svelte-example-four/issues",
+   "email": "55382229+pleasemarkdarkly@users.noreply.github.com",
    "repository": {
       "type": "git",
       "url": "https://github.com/pleasemarkdarkly/svelte-example-four"
@@ -43,6 +45,7 @@
    "devDependencies": {
       "@commitlint/cli": "^11.0.0",
       "@commitlint/config-conventional": "^11.0.0",
+      "@popperjs/core": "^2.6.0",
       "@rollup/plugin-commonjs": "^15.0.0",
       "@rollup/plugin-node-resolve": "^10.0.0",
       "@rollup/plugin-typescript": "^6.0.0",
