@@ -1,4 +1,5 @@
 src/fireapp/config.ts
+src/fireapp/config-collisions.ts
 .vscode
 process.env
 .env

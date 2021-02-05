@@ -1,7 +1,7 @@
 <script>
     // import RoutifyIntro from './example/_components/RoutifyIntro.svelte' 
     import { metatags } from '@roxi/routify'
-    import { auth } from '../fireapp/fireapp'
+    // import { auth } from '../fireapp/fireapp'
     metatags.title = 'Routify/Svelte App Example'
     metatags.description = 'Description coming soon...'
 </script>
