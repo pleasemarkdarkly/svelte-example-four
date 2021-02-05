@@ -1,0 +1,28 @@
+# don't ever lint node_modules
+node_modules
+
+public
+
+# vscode workspace
+*.code-workspace
+*.vscode
+
+# config files
+package.json
+.eslintrc.js
+postcss.config.js
+svelte.config.js
+tailwind.config.js
+
+# exclude tests
+*.test.ts
+
+# Rest test files
+*.http
+
+# todo and component notes
+*.md
+
+# apparently new Apple resource files on SMB
+.AppleDouble
+.DS_Store

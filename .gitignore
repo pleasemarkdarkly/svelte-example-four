@@ -1,0 +1,12 @@
+.vscode
+process.env
+.env
+**/node_modules/
+/dist/
+.DS_Store
+**/.history
+src/tmp/
+.routify
+.netlify
+assets/build
+.vercel

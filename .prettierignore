@@ -1,0 +1,4 @@
+*.svelte
+*.html
+*.css
+public
